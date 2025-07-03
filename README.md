@@ -1,3 +1,3 @@
-# Brewd
+# Brewed
 Online Coffee Ordering System 
-https://www.figma.com/design/MnualtR7weR039YJc4O2Xn/Brewed--Community-?node-id=0-1&p=f&t=R6IFRI97gwcaopRr-0
+[link to the Prototype](https://www.figma.com/proto/BlMP3nCdnDjL9j45f3jj9s/Brewed?type=design&node-id=3-774&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A2&hide-ui=1)
